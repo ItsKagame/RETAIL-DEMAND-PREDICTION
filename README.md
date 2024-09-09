@@ -32,7 +32,7 @@ Retailers face challenges in balancing inventory levels with fluctuating custome
 The project employs the Random Forest algorithm and time series methods like SARIMA. Data was preprocessed, and features were engineered to improve the model's performance. Hyperparameter tuning was conducted using grid search, and model validation was performed on unseen data.
 
 ## Results
-The Random Forest model achieved an R-squared score of 0.6755 and outperformed the AdaBoost model in terms of accuracy.
+The model was found to have an R-squared of 0.6755, this suggests that the model provides a reasonably good fit to the data. It indicates that a substantial portion of the variability in the target variable is captured by the features included in the model. 
 
 ## Key Findings
 - **Model Performance**: The Random Forest model provided reliable demand forecasts.
