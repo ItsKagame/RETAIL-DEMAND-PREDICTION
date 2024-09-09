@@ -46,9 +46,3 @@ The Random Forest model achieved an R-squared score of 0.6755 and outperformed t
 ## Limitations and Future Work
 - The model's performance may vary based on different data sources or time periods.
 - Future research could explore alternative models or larger datasets for improved accuracy.
-
-## How to Run the Project
-1. Clone the repository.
-2. Install the required Python libraries listed in `requirements.txt`.
-3. Run the Jupyter notebooks to preprocess data, train the model, and generate predictions.
-4. Launch the
