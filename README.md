@@ -44,5 +44,7 @@ The model was found to have an R-squared of 0.6755, this suggests that the model
 - Focus on key drivers of demand as identified in the feature importance analysis.
 
 ## Limitations and Future Work
-- The model's performance may vary based on different data sources or time periods.
-- Future research could explore alternative models or larger datasets for improved accuracy.
+While the project yielded promising results, there were limitations to consider:
+- Data Availability: The quality and quantity of data used to train and validate the model can impact its performance. Future research might benefit from incorporating larger datasets or exploring additional data sources.
+- Model Generalizability: The model's performance might vary depending on the specific context and timeframes. Further testing on different data splits or across different regions or time periods is recommended.
+- Alternative Models: Exploring other machine learning models or feature engineering techniques could potentially lead to improved forecasting accuracy
