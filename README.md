@@ -1,6 +1,6 @@
 # Retail Demand Prediction Using Random Forest Model
 
-This project involves developing a predictive model for estimating product demand in the retail sector using machine learning techniques. The model leverages historical sales data and applies the Random Forest algorithm to create accurate and reliable demand forecasts. This project was conducted as part of the requirements for a Bachelor of Science in Data Science at Meru University of Science and Technology.
+This project involves developing a predictive model for estimating product demand in the retail sector using machine learning techniques. The model leverages historical sales data and applies the Random Forest algorithm to create accurate and reliable demand forecasts.
 
 ## Table of Contents
 - [Introduction](#introduction)
