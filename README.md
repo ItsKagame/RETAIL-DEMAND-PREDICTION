@@ -11,8 +11,6 @@ This project involves developing a predictive model for estimating product deman
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Limitations and Future Work](#limitations-and-future-work)
-- [How to Run the Project](#how-to-run-the-project)
-- [Contributors](#contributors)
 
 ## Introduction
 Demand forecasting in retail is crucial for optimizing inventory management, reducing costs, and enhancing customer satisfaction. Traditional statistical methods have been supplemented by machine learning algorithms, allowing for more accurate predictions based on past sales data, market trends, and more. This project focuses on predicting product demand for an e-commerce tech-gadget retailer.
